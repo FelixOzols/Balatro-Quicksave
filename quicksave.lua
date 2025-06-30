@@ -44,3 +44,6 @@ function create_UIBox_HUD()
 
     return contents
 end
+
+SMODS.Keybind({key_pressed='f5', action=G.FUNCS.QS_Save})
+SMODS.Keybind({key_pressed='f9', action=G.FUNCS.QS_Load})
