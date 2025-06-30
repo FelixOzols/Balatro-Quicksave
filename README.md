@@ -8,7 +8,7 @@ https://opensource.org/licenses/MIT
 <h1 align="center">Balatro Quicksave Mod</h1>
 
 <!-- ![demonstration video](assets/demo.gif) -->
-<p align="center" alt="demonstration GIF"><img src="assets/demo.gif" style="width:75%" /></p>
+<p align="center" alt="demonstration GIF"><img src="assets/demo.gif" style="width:100%" /></p>
 
 <p align="center"><b>Save and load quicksaves in your Balatro runs as you would in Skyrim.</b></p>
 
