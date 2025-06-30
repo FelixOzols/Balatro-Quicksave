@@ -1,10 +1,3 @@
-<!--
-Copyright (c) 2025 Felix Ozols
-
-This software is released under the MIT License.
-https://opensource.org/licenses/MIT
--->
-
 <h1 align="center">Balatro Quicksave Mod</h1>
 
 <!-- ![demonstration video](assets/demo.gif) -->
