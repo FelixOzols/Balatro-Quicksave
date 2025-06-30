@@ -1,12 +1,15 @@
 {
 	"id": "quicksave",
 	"name": "Quicksave",
-	"author": ["Flinty"],
-	"description": "This mod make the save quick",
-	"prefix": "PREFIX",
-	"badge_colour": "fc8048",
+	"author": ["FelixOzols"],
+	"description": "This mod allows you to save and load quicksaves in your Balatro runs using some buttons or with the f5 and f9 keys to save and load respectively, this mod can perform hotloads so you wont need to go back to the main menu.",
+	"prefix": "QS",
+	"badge_colour": "ff5c00",
 	"dependencies": [
 		"Steamodded (>=1.0.0~BETA-0323b)"
+	],
+	"conflicts": [
+		"Multiplayer"
 	],
 	"main_file": "quicksave.lua",
 	"version": "1.0.0"
