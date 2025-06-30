@@ -10,12 +10,13 @@ https://opensource.org/licenses/MIT
 ![demonstration video](assets/demo.gif)
 
 Save and load quicksaves in your Balatro runs as you would in Skyrim.
-
+<span align="center">test</span>
 ## Usage
 
 - The mod requires [SMODS](https://github.com/Steamodded/smods)
 - Drop this entire folder into your [Mods](https://github.com/Steamodded/smods/wiki#method-3a-direct-download) directory.
-- You can use the provided buttons or with the `f5` and `f9` keys to save and load respectively, this mod can perform hotloads so you wont need to go back to the main menu to load a save.
+- You can use the provided buttons or with the `f5` and `f9` keys to save and load respectively.
+- This mod can perform hotloads so you wont need to go back to the main menu to load a save.
 
 ## Additional Info
 
