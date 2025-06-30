@@ -10,7 +10,9 @@ https://opensource.org/licenses/MIT
 ![demonstration video](assets/demo.gif)
 
 Save and load quicksaves in your Balatro runs as you would in Skyrim.
-<span align="center">test</span>
+
+<p align="center">test</p>
+
 ## Usage
 
 - The mod requires [SMODS](https://github.com/Steamodded/smods)
