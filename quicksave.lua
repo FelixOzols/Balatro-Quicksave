@@ -1,8 +1,3 @@
--- Copyright (c) 2025 Felix Ozols
--- 
--- This software is released under the MIT License.
--- https://opensource.org/licenses/MIT
-
 -- hardcoding is lame but the alternative is regex or using stdio which has its own caveats
 local relative_dir = '/Mods/quicksave'
 
