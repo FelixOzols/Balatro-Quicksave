@@ -1,0 +1,13 @@
+{
+	"id": "quicksave",
+	"name": "Quicksave",
+	"author": ["Flinty"],
+	"description": "This mod make the save quick",
+	"prefix": "PREFIX",
+	"badge_colour": "fc8048",
+	"dependencies": [
+		"Steamodded (>=1.0.0~BETA-0323b)"
+	],
+	"main_file": "quicksave.lua",
+	"version": "1.0.0"
+}
