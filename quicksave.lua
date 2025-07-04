@@ -16,7 +16,7 @@
 -- along with quicksave.  If not, see <https://www.gnu.org/licenses/>.
 
 -- hardcoding is lame but the alternative is regex or using stdio which has its own caveats
-local relative_dir = '/Mods/quicksave'
+local relative_dir = '/Mods/Balatro-Quicksave-main'
 
 G.FUNCS.QS_Save = function(e)
     save_run()
